@@ -1,0 +1,2 @@
+# RNN
+Implementing RNN 
